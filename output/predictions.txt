@@ -1,0 +1,128 @@
+16
+The Bills        have a 52.951% chance to beat the Patriots    
+The Patriots     are favored by 0.0 points at home
+The Bills        have a 91.078% chance to beat the Patriots        according to the Poisson Regression
+The Bills        are expected to win by an average of 16.7 points  (Projected Score: 27 - 17, Total Score: 49.4)
+The Bills        have a 88.716% chance to beat the Patriots        according to the BT Model
+The Bills        are on pace to be a 13  win team, the Patriots    are on pace to be a 4   win team
+
+15
+The Chargers     have a 52.683% chance to beat the Raiders     
+The Raiders      are favored by 0.0 points at home
+The Chargers     have a 82.183% chance to beat the Raiders         according to the Poisson Regression
+The Chargers     are expected to win by an average of 10.4 points  (Projected Score: 20 - 17, Total Score: 41.2)
+The Chargers     have a 79.891% chance to beat the Raiders         according to the BT Model
+The Chargers     are on pace to be an 11 win team, the Raiders     are on pace to be a 4   win team
+
+14
+The Commanders   have a 52.364% chance to beat the Cowboys     
+The Cowboys      are favored by 0.0 points at home
+The Commanders   have a 77.073% chance to beat the Cowboys         according to the Poisson Regression
+The Commanders   are expected to win by an average of 9.8  points  (Projected Score: 24 - 20, Total Score: 54.8)
+The Commanders   have a 69.304% chance to beat the Cowboys         according to the BT Model
+The Commanders   are on pace to be a 12  win team, the Cowboys     are on pace to be a 7   win team
+
+13
+The Texans       have a 52.310% chance to beat the Titans      
+The Titans       are favored by 0.0 points at home
+The Texans       have a 75.556% chance to beat the Titans          according to the Poisson Regression
+The Texans       are expected to win by an average of 8.1  points  (Projected Score: 20 - 17, Total Score: 44.0)
+The Texans       have a 82.119% chance to beat the Titans          according to the BT Model
+The Texans       are on pace to be a 10  win team, the Titans      are on pace to be a 3   win team
+
+12
+The Seahawks     have a 51.545% chance to beat the Rams        
+The Rams         are favored by 0.0 points at home
+The Seahawks     have a 57.888% chance to beat the Rams            according to the Poisson Regression
+The Seahawks     are expected to win by an average of 2.3  points  (Projected Score: 20 - 17, Total Score: 42.4)
+The Rams         have a 50.694% chance to beat the Seahawks        according to the BT Model
+The Rams         are on pace to be a 10  win team, the Seahawks    are on pace to be a 10  win team
+
+11
+The Ravens       have a 50.792% chance to beat the Browns      
+The Ravens       are favored by 0.0 points at home
+The Ravens       have a 95.758% chance to beat the Browns          according to the Poisson Regression
+The Ravens       are expected to win by an average of 20.8 points  (Projected Score: 27 - 10, Total Score: 47.6)
+The Ravens       have a 88.312% chance to beat the Browns          according to the BT Model
+The Ravens       are on pace to be a 12  win team, the Browns      are on pace to be a 3   win team
+
+10
+The Eagles       have a 50.778% chance to beat the Giants      
+The Eagles       are favored by 0.0 points at home
+The Eagles       have a 92.866% chance to beat the Giants          according to the Poisson Regression
+The Eagles       are expected to win by an average of 15.9 points  (Projected Score: 24 - 10, Total Score: 39.0)
+The Eagles       have a 90.657% chance to beat the Giants          according to the BT Model
+The Eagles       are on pace to be a 14  win team, the Giants      are on pace to be a 3   win team
+
+9
+The Bengals      have a 50.644% chance to beat the Steelers    
+The Steelers     are favored by 0.0 points at home
+The Steelers     have a 54.872% chance to beat the Bengals         according to the Poisson Regression
+The Steelers     are expected to win by an average of 1.5  points  (Projected Score: 23 - 20 OT, Total Score: 50.7)
+The Steelers     have a 56.452% chance to beat the Bengals         according to the BT Model
+The Steelers     are on pace to be a 10  win team, the Bengals     are on pace to be a 9   win team
+
+8
+The Dolphins     have a 50.614% chance to beat the Jets        
+The Jets         are favored by 0.0 points at home
+The Jets         have a 55.876% chance to beat the Dolphins        according to the Poisson Regression
+The Jets         are expected to win by an average of 1.6  points  (Projected Score: 20 - 17 OT, Total Score: 40.4)
+The Dolphins     have a 61.150% chance to beat the Jets            according to the BT Model
+The Dolphins     are on pace to be an 8  win team, the Jets        are on pace to be a 5   win team
+
+7
+The Falcons      have a 50.541% chance to beat the Panthers    
+The Falcons      are favored by 0.0 points at home
+The Falcons      have a 80.829% chance to beat the Panthers        according to the Poisson Regression
+The Falcons      are expected to win by an average of 11.3 points  (Projected Score: 24 - 17, Total Score: 53.2)
+The Falcons      have a 67.701% chance to beat the Panthers        according to the BT Model
+The Falcons      are on pace to be an 8  win team, the Panthers    are on pace to be a 5   win team
+
+6
+The Jaguars      have a 50.516% chance to beat the Colts       
+The Colts        are favored by 0.0 points at home
+The Colts        have a 63.502% chance to beat the Jaguars         according to the Poisson Regression
+The Colts        are expected to win by an average of 4.2  points  (Projected Score: 23 - 20 OT, Total Score: 47.6)
+The Colts        have a 70.041% chance to beat the Jaguars         according to the BT Model
+The Colts        are on pace to be an 8  win team, the Jaguars     are on pace to be a 4   win team
+
+5
+The 49ers        have a 50.436% chance to beat the Cardinals   
+The Cardinals    are favored by 0.0 points at home
+The Cardinals    have a 61.677% chance to beat the 49ers           according to the Poisson Regression
+The Cardinals    are expected to win by an average of 3.6  points  (Projected Score: 23 - 20 OT, Total Score: 47.7)
+The Cardinals    have a 57.212% chance to beat the 49ers           according to the BT Model
+The Cardinals    are on pace to be an 8  win team, the 49ers       are on pace to be a 6   win team
+
+4
+The Packers      have a 50.402% chance to beat the Bears       
+The Packers      are favored by 0.0 points at home
+The Packers      have a 83.601% chance to beat the Bears           according to the Poisson Regression
+The Packers      are expected to win by an average of 11.0 points  (Projected Score: 20 - 17, Total Score: 41.2)
+The Packers      have a 78.500% chance to beat the Bears           according to the BT Model
+The Packers      are on pace to be an 11 win team, the Bears       are on pace to be a 5   win team
+
+3
+The Buccaneers   have a 50.357% chance to beat the Saints      
+The Buccaneers   are favored by 0.0 points at home
+The Buccaneers   have a 82.100% chance to beat the Saints          according to the Poisson Regression
+The Buccaneers   are expected to win by an average of 11.3 points  (Projected Score: 24 - 17, Total Score: 48.7)
+The Buccaneers   have a 74.649% chance to beat the Saints          according to the BT Model
+The Buccaneers   are on pace to be a 10  win team, the Saints      are on pace to be a 5   win team
+
+2
+The Chiefs       have a 50.152% chance to beat the Broncos     
+The Broncos      are favored by 0.0 points at home
+The Broncos      have a 63.081% chance to beat the Chiefs          according to the Poisson Regression
+The Broncos      are expected to win by an average of 3.6  points  (Projected Score: 20 - 17 OT, Total Score: 37.3)
+The Chiefs       have a 77.025% chance to beat the Broncos         according to the BT Model
+The Chiefs       are on pace to be a 15  win team, the Broncos     are on pace to be a 10  win team
+
+1
+The Vikings      have a 50.018% chance to beat the Lions       
+The Lions        are favored by 0.0 points at home
+The Lions        have a 72.463% chance to beat the Vikings         according to the Poisson Regression
+The Lions        are expected to win by an average of 7.6  points  (Projected Score: 24 - 20, Total Score: 51.2)
+The Lions        have a 59.411% chance to beat the Vikings         according to the BT Model
+The Lions        are on pace to be a 15  win team, the Vikings     are on pace to be a 14  win team
+

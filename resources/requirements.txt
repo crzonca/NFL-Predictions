@@ -1,0 +1,15 @@
+scipy
+pandas
+sportsipy
+networkx
+numpy
+statsmodels
+prettytable
+maya
+requests
+PIL
+matplotlib
+seaborn
+bokeh
+scikit-learn
+choix
